@@ -1,0 +1,26 @@
+{
+  "name": "ding_slackbot",
+  "version": "1.0.0",
+  "description": "This is the npm install package for a slackbot",
+  "main": "mdn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyding1/decodemtl-slackbot-workshop.git"
+  },
+  "keywords": [
+    "slackbot"
+  ],
+  "author": "Andy Ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyding1/decodemtl-slackbot-workshop/issues"
+  },
+  "homepage": "https://github.com/andyding1/decodemtl-slackbot-workshop#readme",
+  "dependencies": {
+    "request": "^2.69.0",
+    "slackbots": "^0.5.1"
+  }
+}
